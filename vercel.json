@@ -1,7 +1,1 @@
-{
-  "rewrites": [
-    { "source": "/teaser", "destination": "https://claude.ai/artifact/4zCMAZ7bRoEnvmsLa9tJbm" },
-    { "source": "/anthology", "destination": "https://claude.ai/artifact/X4wpRJoptc716VZWf7u6X8" },
-    { "source": "/tam", "destination": "https://claude.ai/artifact/YQYxAoe7Z4WRmNgQsiKapW" }
-  ]
-}
+{}
